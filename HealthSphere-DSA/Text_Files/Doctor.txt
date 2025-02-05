@@ -1,0 +1,6 @@
+5 Dr.Imran Gastroenterology Male Rs.1000 dr.imran@hotmail.com 0333-5556667 Mon-Sat,10am-6pm
+2 Dr.Fatima Pediatrics Female Rs.1200 dr.fatima@hotmail.com 0321-9876542 Tue-Sat,8am-3pm
+7 Dr.Ali Cardiology Male Rs.2000 dr.ali@gmail.com 0300-1234567 Mon-Fri,9am-5pm
+1 Dr.Ayesha Opthamologist Female Rs.1500 dr.ayesha@gmail.com 0345-6789012 Mon-Sat,8am-3pm
+9 Dr.Umer General-Medicine Male Rs.700 dr.umer@hotmail.com 0345-1357901 Mon-Fri,9am-3pm
+3 Dr.Ali Dentist Female Rs.1500 dr.asli@gmail.com 0321-2345698 Tue-S
